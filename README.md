@@ -1,6 +1,6 @@
 # Welcome to my C language projects
 
-## <span style="color:red">[Project 1 -Steganography](https://github.com/NirAharon1/Data-Analytics-Projects/blob/main/https://github.com/NirAharon1/C-Language-Projects/tree/main/steganography "steganography") </span>
+## <span style="color:red">[Project 1 -Steganography](https://github.com/NirAharon1/C-Language-Projects/tree/main/steganography "steganography") </span>
 
 This C project implements an algorithm for encrypting text data of a chosen image.            
 The algorithm takes advantage of bit-wise operation, so the change in the image is undetectable for the naked eye.
